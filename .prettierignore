@@ -6,3 +6,7 @@ public
 build
 *.lock
 *lock.json
+
+public
+web
+dist
